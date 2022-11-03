@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Source Serif Pro";
+  font-weight: 600;
+  src: local("Source Serif Pro BoldIt") format("woff2"),
+        local("SourceSerifPro-BoldIt") format("woff2"),
+        url("../fonst/SourceSerifPro-BoldIt.woff2") format("woff2"),
+        url("../fonst/SourceSerifPro-BoldIt.woff") format("woff"), 
+        url("../fonst/SourceSerifPro-BoldIt.eot")format("eot");
+  font-style: normal;
+  font-display: fallback;
+}
+
+body{font-family: 'Poppins', sans-serif;}
